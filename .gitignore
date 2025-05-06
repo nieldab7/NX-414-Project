@@ -174,3 +174,4 @@ cython_debug/
 .pypirc
 
 IT_data.h5
+miniconda_installer.sh
