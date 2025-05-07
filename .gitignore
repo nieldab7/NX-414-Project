@@ -174,3 +174,7 @@ cython_debug/
 .pypirc
 IT_data.h5
 "IT_data.h5" 
+
+
+# added
+data/
